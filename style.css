@@ -46,7 +46,7 @@ button {
 /* When adding a new list */
 .animated-list-enter-from {
   opacity: 0;
-  transform: translateX(-30px);
+  transform: translateX(-256px);
 }
 .animated-list-enter-active {
   transition: all 1s ease-out;
@@ -67,7 +67,7 @@ button {
 }
 .animated-list-leave-to {
   opacity: 0;
-  transform: translateX(30px);
+  transform: translateX(256px);
 }
 
 /* Smooth movement on already added lists */
