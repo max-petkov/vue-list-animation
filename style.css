@@ -69,7 +69,7 @@ button {
   transform: translateX(30px);
 }
 
-/* Smooth movement on alreade added lists */
+/* Smooth movement on already added lists */
 .animated-list-move {
   transition: transform 0.8s ease;
 }
